@@ -25,7 +25,12 @@ public class College {
 		h.hostelName();
 		h.messName();
 		
+		System.out.println("Students details collected");
+		System.out.println("Students Info");
+		System.out.println("college Info");
+		
 	}
+	
 	
 
 }
